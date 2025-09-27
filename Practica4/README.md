@@ -1,4 +1,4 @@
-# PrActica 4 – Archivo Instrucciones
+# Practica 4 â€“ Archivo Instrucciones
 
 ## Objetivo
 Leer el contendio de un archivo para evaluar y ejecutar las instrucciones en el plano de dibujo de turtle
@@ -19,13 +19,14 @@ Si el archivo `dibujante.txt` no se encuentra se muestra un **ERROR** en consola
 
 ## Instrucciones soportadas
 El archivo `dibujante.txt` debe contener una instruccion por linea
-Las instrucciones válidas son:
-- `CUADRADO x y tamaño color`
-- `TRIANGULO x y tamaño color`
+Las instrucciones vÃ¡lidas son:
+- `CUADRADO x y tamaÃ±o color`
+- `TRIANGULO x y tamaÃ±o color`
 - `CIRCULO x y radio color`
 - `LINEA x1 y1 x2 y2 color`
 - `TELEPORT x y`
 
 ## ?? Requisitos
 - Python 3.10 
+
 - No requiere librerias externas, solo modulos estandar (`turtle`, `os`)
