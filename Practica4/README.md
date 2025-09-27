@@ -26,7 +26,8 @@ Las instrucciones válidas son:
 - `LINEA x1 y1 x2 y2 color`
 - `TELEPORT x y`
 
-## ?? Requisitos
+## Requisitos
 - Python 3.10 
 
 - No requiere librerias externas, solo modulos estandar (`turtle`, `os`)
+
